@@ -4,7 +4,8 @@ An x86 Assembly alarm clock project developed and tested in **emu8086**. The pro
 
 ## Preview
 
-![Assembly Alarm Clock running in emu8086](screenshots/alarm-clock-emulator.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/de41998a-318a-40a1-86bf-85c96f2e8502" />
+
 
 ## Overview
 
