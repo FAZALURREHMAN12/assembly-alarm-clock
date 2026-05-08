@@ -4,10 +4,6 @@ An x86 Assembly alarm clock project developed and tested in **emu8086**. The pro
 
 ## Preview
 
-> Add your screenshot to a `screenshots` folder in the repository using this name:
->
-> `screenshots/alarm-clock-emulator.png`
-
 ![Assembly Alarm Clock running in emu8086](screenshots/alarm-clock-emulator.png)
 
 ## Overview
@@ -58,8 +54,7 @@ The project was built to practice how Assembly programs manage data, registers, 
 assembly-alarm-clock/
 ├── alarm.asm
 ├── README.md
-└── screenshots/
-    └── alarm-clock-emulator.png
+└──  alarm-clock-emulator.png
 ```
 
 > Note: The Assembly source filename may differ depending on the version uploaded to the repository.
